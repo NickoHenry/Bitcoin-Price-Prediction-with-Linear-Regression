@@ -1,1 +1,1 @@
-# Bitcoin-Price-Prediction-with-Linear-Regression
+This project is to do Linear Regression to predict Bitcoin Price Prediction based on the dataset that I have collected manually. Then I used the Python language and the Scikit Learn library to create a model and predict the output with the result that the accuracy of the model made was 96.08%.
